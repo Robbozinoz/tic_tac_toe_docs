@@ -5,3 +5,10 @@ We use this example in the lesson
 
 ## Links to Code Repository
 [Github Code Repo](https://github.com/Robbo-lab/tic_tac_toh_automation/tree/master)
+
+## Installing sphinx and the theme
+
+```bash
+python -m p-pip install Sphinx
+python -m pip install sphinx-rtd-theme
+```
