@@ -16,4 +16,4 @@ python -m pip install sphinx-rtd-theme
 
 ## Themes to choose
 
-[https://sphinx-themes.readthedocs.io/en/latest/]
+https://sphinx-themes.readthedocs.io/en/latest/
