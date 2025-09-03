@@ -6,7 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-# set the path so we can retrieve the module
+# Add the parent directory to path so Sphinx can find and 
+# import the module for autodoc.
+
 from pathlib import Path
 import sys
 
@@ -35,7 +37,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # run `pip install sphinx_rtd_theme`
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # Autodoc settings
 autodoc_typehints = "description"
