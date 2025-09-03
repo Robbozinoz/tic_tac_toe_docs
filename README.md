@@ -13,3 +13,7 @@ We use this example in the lesson
 python -m p-pip install Sphinx
 python -m pip install sphinx-rtd-theme
 ```
+
+## Themes to choose
+
+[https://sphinx-themes.readthedocs.io/en/latest/]
